@@ -1,0 +1,140 @@
+<li><a href=word.php?word=flinch>flinch</a>=बच निकलना<div class="inline" id="#flinch"><a href="#flinch">&#9989;</a></div></li>
+<li><a href=word.php?word=thwart>thwart</a>=विफल<div class="inline" id="#thwart"><a href="#thwart">&#9989;</a></div></li>
+<li><a href=word.php?word=mausoleum>mausoleum</a>=समाधि<div class="inline" id="#mausoleum"><a href="#mausoleum">&#9989;</a></div></li>
+<li><a href=word.php?word=bellwether>bellwether</a>=भेड़ाओं का राहनुमा<div class="inline" id="#bellwether"><a href="#bellwether">&#9989;</a></div></li>
+<li><a href=word.php?word=racist>racist</a>=जातिवाद<div class="inline" id="#racist"><a href="#racist">&#9989;</a></div></li>
+<li><a href=word.php?word=arsenal>arsenal</a>=शस्त्रागार<div class="inline" id="#arsenal"><a href="#arsenal">&#9989;</a></div></li>
+<li><a href=word.php?word=menacing>menacing</a>=खतरनाक<div class="inline" id="#menacing"><a href="#menacing">&#9989;</a></div></li>
+<li><a href=word.php?word=ironically>ironically</a>=विडम्बना से<div class="inline" id="#ironically"><a href="#ironically">&#9989;</a></div></li>
+<li><a href=word.php?word=secular>secular</a>=धर्म निरपेक्ष<div class="inline" id="#secular"><a href="#secular">&#9989;</a></div></li>
+
+
+<li><a href=word.php?word=resent>resent</a>=क्रोध करना<div class="inline" id="#resent"><a href="#resent">&#9989;</a></div></li>
+<li><a href=word.php?word=relentless>relentless</a>=दयाहीन<div class="inline" id="#relentless"><a href="#relentless">&#9989;</a></div></li>
+<li><a href=word.php?word=deride>deride</a>=चमड़ा<div class="inline" id="#deride"><a href="#deride">&#9989;</a></div></li>
+<li><a href=word.php?word=capsize>capsize</a>=नाव को उलटना<div class="inline" id="#capsize"><a href="#capsize">&#9989;</a></div></li>
+<li><a href=word.php?word=ferrying>ferrying</a>=ढोने वाली<div class="inline" id="#ferrying"><a href="#ferrying">&#9989;</a></div></li>
+<li><a href=word.php?word=hamlet>hamlet</a>=छोटा गांव<div class="inline" id="#hamlet"><a href="#hamlet">&#9989;</a></div></li>
+<li><a href=word.php?word=shallow>shallow</a>=उथला<div class="inline" id="#shallow"><a href="#shallow">&#9989;</a></div></li>
+<li><a href=word.php?word=anguish>anguish</a>=पीड़ा<div class="inline" id="#anguish"><a href="#anguish">&#9989;</a></div></li>
+<li><a href=word.php?word=stall>stall</a>=दुकान<div class="inline" id="#stall"><a href="#stall">&#9989;</a></div></li>
+<li><a href=word.php?word=toddler>toddler</a>=बच्चा<div class="inline" id="#toddler"><a href="#toddler">&#9989;</a></div></li>
+<li><a href=word.php?word=garner>garner</a>=संचित करना<div class="inline" id="#garner"><a href="#garner">&#9989;</a></div></li>
+<li><a href=word.php?word=shun>shun</a>=साथ में<div class="inline" id="#shun"><a href="#shun">&#9989;</a></div></li>
+<li><a href=word.php?word=kin>kin</a>=परिजन<div class="inline" id="#kin"><a href="#kin">&#9989;</a></div></li>
+<li><a href=word.php?word=derogatory>derogatory</a>=अपमानजनक<div class="inline" id="#derogatory"><a href="#derogatory">&#9989;</a></div></li>
+<li><a href=word.php?word=paradigm>paradigm</a>=मिसाल<div class="inline" id="#paradigm"><a href="#paradigm">&#9989;</a></div></li>
+<li><a href=word.php?word=conjunction>conjunction</a>=संयोजन के रूप<div class="inline" id="#conjunction"><a href="#conjunction">&#9989;</a></div></li>
+<li><a href=word.php?word=requisite>requisite</a>=अपेक्षित<div class="inline" id="#requisite"><a href="#requisite">&#9989;</a></div></li>
+<li><a href=word.php?word=smelt>smelt</a>=गलाने<div class="inline" id="#smelt"><a href="#smelt">&#9989;</a></div></li>
+<li><a href=word.php?word=preacher>preacher</a>=उपदेशक<div class="inline" id="#preacher"><a href="#preacher">&#9989;</a></div></li>
+<li><a href=word.php?word=outbreak>outbreak</a>=प्रकोप<div class="inline" id="#outbreak"><a href="#outbreak">&#9989;</a></div></li>
+<li><a href=word.php?word=quarantine>quarantine</a>=कोरांटीन<div class="inline" id="#quarantine"><a href="#quarantine">&#9989;</a></div></li>
+<li><a href=word.php?word=cremate>cremate</a>=दाह-संस्कार करना<div class="inline" id="#cremate"><a href="#cremate">&#9989;</a></div></li>
+<li><a href=word.php?word=martyr>martyr</a>=शहीद<div class="inline" id="#martyr"><a href="#martyr">&#9989;</a></div></li>
+<li><a href=word.php?word=fluorescent>fluorescent</a>=फ्लोरोसेंट<div class="inline" id="#fluorescent"><a href="#fluorescent">&#9989;</a></div></li>
+<li><a href=word.php?word=endeavour>endeavour</a>=प्रयास<div class="inline" id="#endeavour"><a href="#endeavour">&#9989;</a></div></li>
+<li><a href=word.php?word=hectic>hectic</a>=व्यस्त<div class="inline" id="#hectic"><a href="#hectic">&#10062;</a></div></li>
+
+<li><a href=word.php?word=modality>modality</a>=साधन<div class="inline" id="#modality"><a href="#modality">&#10062;</a></div></li>
+<li><a href=word.php?word=throng>throng</a>=भीड़<div class="inline" id="#throng"><a href="#throng">&#10062;</a></div></li>
+<li><a href=word.php?word=reiterated>reiterated</a>=दोहराया<div class="inline" id="#reiterated"><a href="#reiterated">&#10062;</a></div></li>
+<li><a href=word.php?word=serum>serum</a>=सीरम<div class="inline" id="#serum"><a href="#serum">&#10062;</a></div></li>
+<li><a href=word.php?word=dangling>dangling</a>=झूलने<div class="inline" id="#dangling"><a href="#dangling">&#10062;</a></div></li>
+<li><a href=word.php?word=dangle>dangle</a>=लटकना<div class="inline" id="#dangle"><a href="#dangle">&#10062;</a></div></li>
+<li><a href=word.php?word=dispel>dispel</a>=दूर हो जाना<div class="inline" id="#dispel"><a href="#dispel">&#10062;</a></div></li>
+<li><a href=word.php?word=vacate>vacate</a>=खाली<div class="inline" id="#vacate"><a href="#vacate">&#9989;</a></div></li>
+<li><a href=word.php?word=ostracize>ostracize</a>=समाज से बाहर निकालना<div class="inline" id="#ostracize"><a href="#ostracize">&#10062;</a></div></li>
+<li><a href=word.php?word=pact>pact</a>=संधि<div class="inline" id="#pact"><a href="#pact">&#9989;</a></div></li>
+<li><a href=word.php?word=incubate>incubate</a>=सेते<div class="inline" id="#incubate"><a href="#incubate">&#9989;</a></div></li>
+<li><a href=word.php?word=spoof>spoof</a>=चकमा देना<div class="inline" id="#spoof"><a href="#spoof">&#10062;</a></div></li>
+<li><a href=word.php?word=concatenate>concatenate</a>=जुटना<div class="inline" id="#concatenate"><a href="#concatenate">&#10062;</a></div></li>
+<li><a href=word.php?word=douse>douse</a>=पानी में गोता लगाना<div class="inline" id="#douse"><a href="#douse">&#9989;</a></div></li>
+<li><a href=word.php?word=clerical>clerical</a>=लिपिक<div class="inline" id="#clerical"><a href="#clerical">&#10062;</a></div></li>
+<li><a href=word.php?word=fringe>fringe</a>=झब्बे<div class="inline" id="#fringe"><a href="#fringe">&#10062;</a></div></li>
+<li><a href=word.php?word=barely>barely</a>=मात्र<div class="inline" id="#barely"><a href="#barely">&#10062;</a></div></li>
+<li><a href=word.php?word=obscene>obscene</a>=गंदा<div class="inline" id="#obscene"><a href="#obscene">&#10062;</a></div></li>
+<li><a href=word.php?word=unanimous>unanimous</a>=एकमत<div class="inline" id="#unanimous"><a href="#unanimous">&#10062;</a></div></li>
+<li><a href=word.php?word=flout>flout</a>=अवज्ञा<div class="inline" id="#flout"><a href="#flout">&#9989;</a></div></li>
+<li><a href=word.php?word=deemed>deemed</a>=समझा<div class="inline" id="#deemed"><a href="#deemed">&#10062;</a></div></li>
+<li><a href=word.php?word=tribulation>tribulation</a>=क्लेश<div class="inline" id="#tribulation"><a href="#tribulation">&#10062;</a></div></li>
+<li><a href=word.php?word=perception>perception</a>=अनुभूति<div class="inline" id="#perception"><a href="#perception">&#10062;</a></div></li>
+<li><a href=word.php?word=disciple>disciple</a>=शिष्य<div class="inline" id="#disciple"><a href="#disciple">&#10062;</a></div></li>
+<li><a href=word.php?word=colossus>colossus</a>=प्रकांड व्यक्ति<div class="inline" id="#colossus"><a href="#colossus">&#10062;</a></div></li>
+<li><a href=word.php?word=hotbed>hotbed</a>=बड़ा केंद्र<div class="inline" id="#hotbed"><a href="#hotbed">&#10062;</a></div></li>
+<li><a href=word.php?word=deliberately>deliberately</a>=जान - बूझकर<div class="inline" id="#deliberately"><a href="#deliberately">&#10062;</a></div></li>
+<li><a href=word.php?word=mourner>mourner</a>=रोनेवाला<div class="inline" id="#mourner"><a href="#mourner">&#10062;</a></div></li>
+<li><a href=word.php?word=waged>waged</a>=छेड़ा<div class="inline" id="#waged"><a href="#waged">&#10062;</a></div></li>
+<li><a href=word.php?word=beige>beige</a>=बेज<div class="inline" id="#beige"><a href="#beige">&#10062;</a></div></li>
+<li><a href=word.php?word=raunchy>raunchy</a>=घटिया<div class="inline" id="#raunchy"><a href="#raunchy">&#10062;</a></div></li>
+<li><a href=word.php?word=posh>posh</a>=आलीशान<div class="inline" id="#posh"><a href="#posh">&#10062;</a></div></li>
+<li><a href=word.php?word=black-sheep>black-sheep</a>=काली भेड<div class="inline" id="#black-sheep"><a href="#black-sheep">&#10062;</a></div></li>
+<li><a href=word.php?word=succumb>succumb</a>=मर जाना<div class="inline" id="#succumb"><a href="#succumb">&#10062;</a></div></li>
+<li><a href=word.php?word=graze>graze</a>=धीरे से छूना<div class="inline" id="#graze"><a href="#graze">&#9989;</a></div></li>
+<li><a href=word.php?word=exotic>exotic</a>=विदेशी<div class="inline" id="#exotic"><a href="#exotic">&#10062;</a></div></li>
+<li><a href=word.php?word=asylum>asylum</a>=अस्पताल<div class="inline" id="#asylum"><a href="#asylum">&#10062;</a></div></li>
+<li><a href=word.php?word=hysteria>hysteria</a>=हिस्टीरिया<div class="inline" id="#hysteria"><a href="#hysteria">&#10062;</a></div></li>
+<li><a href=word.php?word=debunk>debunk</a>=धूल में मिलाना<div class="inline" id="#debunk"><a href="#debunk">&#10062;</a></div></li>
+<li><a href=word.php?word=abduct>abduct</a>=अपहरण करना<div class="inline" id="#abduct"><a href="#abduct">&#9989;</a></div></li>
+<li><a href=word.php?word=sore>sore</a>=पीड़ादायक<div class="inline" id="#sore"><a href="#sore">&#10062;</a></div></li>
+<li><a href=word.php?word=exempt>exempt</a>=मुक्त<div class="inline" id="#exempt"><a href="#exempt">&#10062;</a></div></li>
+<li><a href=word.php?word=conceive>conceive</a>=गर्भ धारण<div class="inline" id="#conceive"><a href="#conceive">&#10062;</a></div></li>
+<li><a href=word.php?word=regime>regime</a>=शासन<div class="inline" id="#regime"><a href="#regime">&#10062;</a></div></li>
+<li><a href=word.php?word=agitation>agitation</a>=आंदोलन<div class="inline" id="#agitation"><a href="#agitation">&#10062;</a></div></li>
+<li><a href=word.php?word=communique>communique</a>=संचार<div class="inline" id="#communique"><a href="#communique">&#10062;</a></div></li>
+<li><a href=word.php?word=contend>contend</a>=संघर्ष करना<div class="inline" id="#contend"><a href="#contend">&#10062;</a></div></li>
+<li><a href=word.php?word=accusation>accusation</a>=आरोप<div class="inline" id="#accusation"><a href="#accusation">&#10062;</a></div></li>
+<li><a href=word.php?word=onus>onus</a>=भार<div class="inline" id="#onus"><a href="#onus">&#10062;</a></div></li>
+
+<li><a href=word.php?word=chute>chute</a>=पड़ना<div class="inline" id="#chute"><a href="#chute">&#10062;</a></div></li>
+<li><a href=word.php?word=ploy>ploy</a>=चाल<div class="inline" id="#ploy"><a href="#ploy">&#10062;</a></div></li>
+<li><a href=word.php?word=shirk>shirk</a>=भागना<div class="inline" id="#shirk"><a href="#shirk">&#10062;</a></div></li>
+<li><a href=word.php?word=scarcity>scarcity</a>=कमी<div class="inline" id="#scarcity"><a href="#scarcity">&#10062;</a></div></li>
+<li><a href=word.php?word=boycott>boycott</a>=बहिष्कार<div class="inline" id="#boycott"><a href="#boycott">&#9989;</a></div></li>
+<li><a href=word.php?word=stork>stork</a>=सारस<div class="inline" id="#stork"><a href="#stork">&#10062;</a></div></li>
+<li><a href=word.php?word=preventive>preventive</a>=निवारक<div class="inline" id="#preventive"><a href="#preventive">&#10062;</a></div></li>
+<li><a href=word.php?word=lithe>lithe</a>=लचीला<div class="inline" id="#lithe"><a href="#lithe">&#10062;</a></div></li>
+
+<li><a href=word.php?word=brace>brace</a>=ब्रेस<div class="inline" id="#brace"><a href="#brace">&#10062;</a></div></li>
+<li><a href=word.php?word=grim>grim</a>=विकट<div class="inline" id="#grim"><a href="#grim">&#10062;</a></div></li>
+<li><a href=word.php?word=smelter>smelter</a>=स्मेल्टर<div class="inline" id="#smelter"><a href="#smelter">&#10062;</a></div></li>
+<li><a href=word.php?word=grievous>grievous</a>=क्षतिकर<div class="inline" id="#grievous"><a href="#grievous">&#10062;</a></div></li>
+<li><a href=word.php?word=outrageous>outrageous</a>=अपमानजनक<div class="inline" id="#outrageous"><a href="#outrageous">&#10062;</a></div></li>
+<li><a href=word.php?word=enraged>enraged</a>=गुस्से में आया<div class="inline" id="#enraged"><a href="#enraged">&#10062;</a></div></li>
+<li><a href=word.php?word=ethics>ethics</a>=आचार विचार<div class="inline" id="#ethics"><a href="#ethics">&#10062;</a></div></li>
+<li><a href=word.php?word=bilateral>bilateral</a>=द्विपक्षीय<div class="inline" id="#bilateral"><a href="#bilateral">&#10062;</a></div></li>
+<li><a href=word.php?word=assortment>assortment</a>=वर्गीकरण<div class="inline" id="#assortment"><a href="#assortment">&#10062;</a></div></li>
+<li><a href=word.php?word=convergence>convergence</a>=अभिसरण<div class="inline" id="#convergence"><a href="#convergence">&#10062;</a></div></li>
+<li><a href=word.php?word=pilgrims>pilgrims</a>=तीर्थयात्रियों<div class="inline" id="#pilgrims"><a href="#pilgrims">&#9989;</a></div></li>
+<li><a href=word.php?word=rift>rift</a>=दरार<div class="inline" id="#rift"><a href="#rift">&#10062;</a></div></li>
+<li><a href=word.php?word=cue>cue</a>=संकेत<div class="inline" id="#cue"><a href="#cue">&#10062;</a></div></li>
+<li><a href=word.php?word=assert>assert</a>=जोर<div class="inline" id="#assert"><a href="#assert">&#10062;</a></div></li>
+<li><a href=word.php?word=cordon>cordon</a>=घेरा<div class="inline" id="#cordon"><a href="#cordon">&#10062;</a></div></li>
+<li><a href=word.php?word=insurgency>insurgency</a>=विद्रोह<div class="inline" id="#insurgency"><a href="#insurgency">&#10062;</a></div></li>
+<li><a href=word.php?word=interlocutor>interlocutor</a>=वार्ताकार<div class="inline" id="#interlocutor"><a href="#interlocutor">&#10062;</a></div></li>
+<li><a href=word.php?word=ambush>ambush</a>=घात लगाना<div class="inline" id="#ambush"><a href="#ambush">&#10062;</a></div></li>
+<li><a href=word.php?word=cited>cited</a>=उद्धृत<div class="inline" id="#cited"><a href="#cited">&#10062;</a></div></li>
+<li><a href=word.php?word=untenable>untenable</a>=अस्थिर, असमर्थनीय<div class="inline" id="#untenable"><a href="#untenable">&#10062;</a></div></li>
+<li><a href=word.php?word=deteriorating>deteriorating</a>=बिगड़ती<div class="inline" id="#deteriorating"><a href="#deteriorating">&#10062;</a></div></li>
+<li><a href=word.php?word=deteriorate>deteriorate</a>=बिगड़ना<div class="inline" id="#deteriorate"><a href="#deteriorate">&#10062;</a></div></li>
+<li><a href=word.php?word=fugitive>fugitive</a>=भगोड़ा<div class="inline" id="#fugitive"><a href="#fugitive">&#10062;</a></div></li>
+<li><a href=word.php?word=baron>baron</a>=बरोन<div class="inline" id="#baron"><a href="#baron">&#10062;</a></div></li>
+<li><a href=word.php?word=make-out>make-out</a>=समझें<div class="inline" id="#make-out"><a href="#make-out">&#10062;</a></div></li>
+<li><a href=word.php?word=activist>activist</a>=कार्यकर्ता<div class="inline" id="#activist"><a href="#activist">&#10062;</a></div></li>
+<li><a href=word.php?word=secluded>secluded</a>=एकांत<div class="inline" id="#secluded"><a href="#secluded">&#10062;</a></div></li>
+<li><a href=word.php?word=stigma>stigma</a>=कलंक<div class="inline" id="#stigma"><a href="#stigma">&#10062;</a></div></li>
+<li><a href=word.php?word=miscarriage>miscarriage</a>=गर्भपात<div class="inline" id="#miscarriage"><a href="#miscarriage">&#10062;</a></div></li>
+<li><a href=word.php?word=obligation>obligation</a>=कर्तव्य<div class="inline" id="#obligation"><a href="#obligation">&#10062;</a></div></li>
+<li><a href=word.php?word=atrocity>atrocity</a>=क्रूरता<div class="inline" id="#atrocity"><a href="#atrocity">&#10062;</a></div></li>
+<li><a href=word.php?word=speculation>speculation</a>=सट्टा<div class="inline" id="#speculation"><a href="#speculation">&#10062;</a></div></li>
+<li><a href=word.php?word=ostensible>ostensible</a>=ख़याली<div class="inline" id="#ostensible"><a href="#ostensible">&#10062;</a></div></li>
+<li><a href=word.php?word=pubes>pubes</a>=pubes<div class="inline" id="#pubes"><a href="#pubes">&#10062;</a></div></li>
+<li><a href=word.php?word=dominance>dominance</a>=प्रभाव<div class="inline" id="#dominance"><a href="#dominance">&#10062;</a></div></li>
+<li><a href=word.php?word=behemoth>behemoth</a>=आबी घोड़ा<div class="inline" id="#behemoth"><a href="#behemoth">&#10062;</a></div></li>
+<li><a href=word.php?word=slew>slew</a>=धसान<div class="inline" id="#slew"><a href="#slew">&#9989;</a></div></li>
+<li><a href=word.php?word=dearth>dearth</a>=अकाल<div class="inline" id="#dearth"><a href="#dearth">&#9989;</a></div></li>
+<li><a href=word.php?word=nascent>nascent</a>=नवजात<div class="inline" id="#nascent"><a href="#nascent">&#9989;</a></div></li>
+<li><a href=word.php?word=novice>novice</a>=समाचार<div class="inline" id="#novice"><a href="#novice">&#9989;</a></div></li>
+<li><a href=word.php?word=niche>niche</a>=आला<div class="inline" id="#niche"><a href="#niche">&#9989;</a></div></li>
+<li><a href=word.php?word=hierarchy>hierarchy</a>=अनुक्रम<div class="inline" id="#hierarchy"><a href="#hierarchy">&#9989;</a></div></li>
+<li><a href=word.php?word=plush>plush</a>=आलीशान<div class="inline" id="#plush"><a href="#plush">&#9989;</a></div></li><li><a href=word.php?word=inroads>inroads</a>=पैठ<div class="inline" id="#inroads"><a href="#inroads">&#9989;</a></div></li><li><a href=word.php?word=scuttle>scuttle</a>=अऋगीठी<div class="inline" id="#scuttle"><a href="#scuttle">&#9989;</a></div></li><li><a href=word.php?word=coalition>coalition</a>=गठबंधन<div class="inline" id="#coalition"><a href="#coalition">&#9989;</a></div></li><li><a href=word.php?word=coveted>coveted</a>=प्रतिष्ठित<div class="inline" id="#coveted"><a href="#coveted">&#9989;</a></div></li><li><a href=word.php?word=strand>strand</a>=समुद्र तट<div class="inline" id="#strand"><a href="#strand">&#10062;</a></div></li><li><a href=word.php?word=mitigating>mitigating</a>=कम करने<div class="inline" id="#mitigating"><a href="#mitigating">&#10062;</a></div></li><li><a href=word.php?word=substantial>substantial</a>=ठोस<div class="inline" id="#substantial"><a href="#substantial">&#10062;</a></div></li><li><a href=word.php?word=mobilize>mobilize</a>=लामबंद<div class="inline" id="#mobilize"><a href="#mobilize">&#10062;</a></div></li><li><a href=word.php?word=traction>traction</a>=संकर्षण<div class="inline" id="#traction"><a href="#traction">&#10062;</a></div></li><li><a href=word.php?word=dread>dread</a>=भय<div class="inline" id="#dread"><a href="#dread">&#9989;</a></div></li><li><a href=word.php?word=inmate>inmate</a>=कैदी<div class="inline" id="#inmate"><a href="#inmate">&#10062;</a></div></li><li><a href=word.php?word=indigenous>indigenous</a>=स्वदेशी<div class="inline" id="#indigenous"><a href="#indigenous">&#9989;</a></div></li><li><a href=word.php?word=incumbent>incumbent</a>=निर्भर<div class="inline" id="#incumbent"><a href="#incumbent">&#10062;</a></div></li><li><a href=word.php?word=limp>limp</a>=लंगड़ा<div class="inline" id="#limp"><a href="#limp">&#9989;</a></div></li><li><a href=word.php?word=homage>homage</a>=श्रद्धा<div class="inline" id="#homage"><a href="#homage">&#9989;</a></div></li><li><a href=word.php?word=mop>mop</a>=झाड़ू<div class="inline" id="#mop"><a href="#mop">&#9989;</a></div></li><li><a href=word.php?word=liable>liable</a>=उत्तरदायी<div class="inline" id="#liable"><a href="#liable">&#10062;</a></div></li><li><a href=word.php?word=depict>depict</a>=चित्रित करना<div class="inline" id="#depict"><a href="#depict">&#10062;</a></div></li><li><a href=word.php?word=citing>citing</a>=का हवाला देते हुए<div class="inline" id="#citing"><a href="#citing">&#10062;</a></div></li><li><a href=word.php?word=sabotage>sabotage</a>=तोड़-फोड़<div class="inline" id="#sabotage"><a href="#sabotage">&#10062;</a></div></li><li><a href=word.php?word=autocrat>autocrat</a>=अनियन्त्रित शासक<div class="inline" id="#autocrat"><a href="#autocrat">&#10062;</a></div></li><li><a href=word.php?word=assertion>assertion</a>=अभिकथन<div class="inline" id="#assertion"><a href="#assertion">&#10062;</a></div></li><li><a href=word.php?word=thrive>thrive</a>=फलना<div class="inline" id="#thrive"><a href="#thrive">&#9989;</a></div></li><li><a href=word.php?word=dissident>dissident</a>=मतभेद करनेवाला<div class="inline" id="#dissident"><a href="#dissident">&#10062;</a></div></li><li><a href=word.php?word=notoriety>notoriety</a>=बदनामी<div class="inline" id="#notoriety"><a href="#notoriety">&#10062;</a></div></li><li><a href=word.php?word=occult>occult</a>=रहस्यमय<div class="inline" id="#occult"><a href="#occult">&#10062;</a></div></li><li><a href=word.php?word=jowl>jowl</a>=गाल<div class="inline" id="#jowl"><a href="#jowl">&#10062;</a></div></li><li><a href=word.php?word=sedition>sedition</a>=राज - द्रोह<div class="inline" id="#sedition"><a href="#sedition">&#10062;</a></div></li><li><a href=word.php?word=stem>stem</a>=तना<div class="inline" id="#stem"><a href="#stem">&#10062;</a></div></li><li><a href=word.php?word=slaughter>slaughter</a>=वध<div class="inline" id="#slaughter"><a href="#slaughter">&#10062;</a></div></li><li><a href=word.php?word=fierce>fierce</a>=भयंकर<div class="inline" id="#fierce"><a href="#fierce">&#10062;</a></div></li><li><a href=word.php?word=contempt>contempt</a>=निन्दनीय<div class="inline" id="#contempt"><a href="#contempt">&#10062;</a></div></li><li><a href=word.php?word=callous>callous</a>=कठोर<div class="inline" id="#callous"><a href="#callous">&#9989;</a></div></li><li><a href=word.php?word=thundery>thundery</a>=आंधी का<div class="inline" id="#thundery"><a href="#thundery">&#10062;</a></div></li><li><a href=word.php?word=however>however</a>=तथापि<div class="inline" id="#however"><a href="#however">&#10062;</a></div></li><li><a href=word.php?word=tangible>tangible</a>=वास्तविक<div class="inline" id="#tangible"><a href="#tangible">&#10062;</a></div></li><li><a href=word.php?word=fiercely>fiercely</a>=जमकर<div class="inline" id="#fiercely"><a href="#fiercely">&#10062;</a></div></li><li><a href=word.php?word=scrutiny>scrutiny</a>=जांच<div class="inline" id="#scrutiny"><a href="#scrutiny">&#10062;</a></div></li><li><a href=word.php?word=resented>resented</a>=विरोध<div class="inline" id="#resented"><a href="#resented">&#10062;</a></div></li><li><a href=word.php?word=slay>slay</a>=टूटना<div class="inline" id="#slay"><a href="#slay">&#10062;</a></div></li><li><a href=word.php?word=mimic>mimic</a>=भांड<div class="inline" id="#mimic"><a href="#mimic">&#10062;</a></div></li><li><a href=word.php?word=facilitate>facilitate</a>=की सुविधा<div class="inline" id="#facilitate"><a href="#facilitate">&#10062;</a></div></li><li><a href=word.php?word=downstream>downstream</a>=नीचे की ओर<div class="inline" id="#downstream"><a href="#downstream">&#10062;</a></div></li><li><a href=word.php?word=legitimate>legitimate</a>=वैध<div class="inline" id="#legitimate"><a href="#legitimate">&#10062;</a></div></li><li><a href=word.php?word=redundant>redundant</a>=निरर्थक<div class="inline" id="#redundant"><a href="#redundant">&#9989;</a></div></li><li><a href=word.php?word=aegis>aegis</a>=तत्वावधान<div class="inline" id="#aegis"><a href="#aegis">&#10062;</a></div></li><li><a href=word.php?word=slain>slain</a>=मारे गए<div class="inline" id="#slain"><a href="#slain">&#10062;</a></div></li><li><a href=word.php?word=contour>contour</a>=समोच्च<div class="inline" id="#contour"><a href="#contour">&#10062;</a></div></li><li><a href=word.php?word=princely>princely</a>=राजसी<div class="inline" id="#princely"><a href="#princely">&#10062;</a></div></li><li><a href=word.php?word=bishop>bishop</a>=बिशप<div class="inline" id="#bishop"><a href="#bishop">&#10062;</a></div></li>
