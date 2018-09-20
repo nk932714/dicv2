@@ -1,0 +1,75 @@
+.ipa {
+  display: inline-block;
+  padding: 0 2px 0 1px;
+}
+.cdo-section-title-hw .headword,.di-head.normal-entry .cdo-section-title-hw .this-is-for-heading{
+ text-align: center;
+      background-color: white;
+	border: 1.0px solid blue;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding-top: 5px;
+    padding-right: 3px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+       border-radius: 10px;
+
+}
+
+.cdo-section-title-hw .headword,.di-head.normal-entry .cdo-section-title-hw {
+   display: block;
+  margin: 0 10 0px;
+  font-size: 0.8em; /* size of searched word */
+  line-height: 1.075em;
+  font-weight: 700;
+
+}
+.ico-bg:before,.ico-bg:after,.ico-bg-abs:before,.ico-bg-abs:after {
+  font-weight: 300;
+  font-family: cdoicons;
+  content: none;
+  padding-right: 7px;
+}
+/*
+.cdo-section-title-hw .posgram,.di-head.normal-entry .posgram,.pos-head .pos-info .posgram,.HeadwordCtn .GeographicalUsage {
+  font-style: italic;
+  font-size: 1.25em;
+  color: #444;
+}
+*/
+.emphasized {
+    font-style: italic;
+     color:brown;
+}
+.uk > .region, .us > .region {
+    text-transform: uppercase;
+  margin-left: 5px;
+    color: #e84427;
+    font-size: 1em;
+    font-weight: 700;
+}
+/* to color the UK pronunciation into blue
+.txt-block--alt, .txt-block--alt2 {
+    background: #234b9a;
+    color: #fff;
+} */
+
+.emphasized:before {
+  content: 'Example-';
+    color: black;
+}
+/*.freq:after {
+  content: '';
+    color: red;
+}*/
+.domain:before {
+  content: '{';
+    color: magenta;
+}
+.domain:after {
+  content: '}';
+    color: magenta;
+}
+.p:after {
+  content: '}';
+    color: magenta;
+}
