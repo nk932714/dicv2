@@ -72,7 +72,7 @@
                         $result = implode('<br><br>',$matches[0]);
                         $result = str_replace('dictionary.cambridge.org',$site_link.$full_url1,$result);
                         $result = str_replace('index.php','',$result);
-                        $result = str_replace('english/','word.php?word=',$result);
+                        $result = str_replace('english/','?word=',$result);
                         //$result = str_replace('https','http',$result);             //replace if your website doesn't support https
                         $result = str_replace('entry-body__el clrd js-share-holder">','',$result);
                         $result = str_replace('See more results','',$result);
