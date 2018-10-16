@@ -129,7 +129,7 @@ else {
                          $audio_us = preg_match($re3, $output, $audious);
                          $uk = $audiouk[1]; $us = $audious[1];
                      // 7.1 Finding the word pronunciation code
-                             $re7 = '/<span class="uk"><span class="pron">\/<span class="ipa">(.*?)\/<\/span>/';
+                             $re7 = '/<span class=".."><span class="pron">\/<span class="ipa">(.*?)\/<\/span>/';// more accurate  ".." will match either its uk or us written
                              $pron_word = preg_match_all($re7, $output, $pronword);
                 // 8. Displaying result
                       //  echo $result;
