@@ -109,18 +109,21 @@
                           $re3 = '/\/media\/english\/us_pron(.*?)"/'; //for Us audio
                           $audio_uk = preg_match($re2, $output, $audiouk);
                           $audio_us = preg_match($re3, $output, $audious);
-                          $uk = $audiouk[1]; $us = $audious[1];
-
+                          if($audio_uk >= 1) { $uk = $audiouk[1]; } else { $uk = null; }    /* $uk = isset($audiouk[1]) ? $audiouk[1] : null;   */
+                          if($audio_us >= 1) { $us = $audious[1]; } else { $us = null; }    /* $us = isset($audious[1]) ? $audious[1] : null;   */
+         
                      // 7.1 Finding the word pronunciation code
-                             $re7 = '/<span class=".."><span class="pron">\/<span class="ipa">(.*?)\/<\/span>/';// more accurate  ".." will match either its uk or us written
+                            // $re7 = '/<span class=".."><span class="pron">\/<span class="ipa">(.*?)\/<\/span>/';// more accurate  ".." will match either its uk or us written
+                             $re7 = '/<span class="uk">.*<span class="pron">\/<span class="ipa">(.*?)\/<\/span>/s';
+                             $re007 = '/<span class="us">.*<span class="pron">\/<span class="ipa">(.*?)\/<\/span>/s';
                              $pron_word = preg_match_all($re7, $output, $pronword);
-
-
+                             $pron_word_us = preg_match_all($re007, $output, $pronword_us);
+         
                   // 8. Displaying result
                                   echo "<span class='firsti'>".$location."\n</span><br><br>";
                                   echo $result;
-                                  echo '<br>UK - <font color="magenta" size=6><b>'.$pronword[1][0].'</b></font><audio controls><source src="https://dictionary.cambridge.org/media/english/uk_pron'.$uk.'" /></audio>';
-                                  echo '<br>US - <font color="magenta" size=6><b>'.$pronword[1][1].'</b></font><audio controls><source src="https://dictionary.cambridge.org/media/english/us_pron'.$us.'" /></audio>'; 
+                                  if($pron_word >=1)    { echo '<br>UK - <font color="magenta" size=6><b>'.$pronword[1][0].'</b></font><audio controls><source src="https://dictionary.cambridge.org/media/english/uk_pron'.$uk.'" /></audio>'; }
+                                  if($pron_word_us >=1) { echo '<br>US - <font color="magenta" size=6><b>'.$pronword_us[1][0].'</b></font><audio controls><source src="https://dictionary.cambridge.org/media/english/us_pron'.$us.'" /></audio>'; }
                                   echo "<br>".$result_hindi;
                               //echo $output;
 
